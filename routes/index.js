@@ -12,4 +12,19 @@ router.get('/about', (req, res, next) =>{
   res.render('about', { title: 'About' });
 });
 
+/* GET contact page. */
+router.get('/contact', (req, res, next) =>{
+  res.render('contact');
+});
+
+/* GET project page. */
+router.get('/project', (req, res, next) =>{
+  res.render('project');
+});
+
+/* GET about page. */
+router.get('/service', (req, res, next) =>{
+  res.render('service');
+});
+
 module.exports = router;
