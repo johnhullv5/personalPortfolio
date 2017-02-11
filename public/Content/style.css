@@ -121,13 +121,14 @@ img.hao{
 
 	zoom: 80%;
 
-		margin-left: 5cm;
-    margin-right: 3cm;
+}
+
+#main div{
+	margin-left: 1cm;
 
 }
 
-div.col-md-6{
-
-
+#whoAmI{
+		margin-left: 1cm;
 
 }
