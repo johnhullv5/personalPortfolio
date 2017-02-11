@@ -27,4 +27,9 @@ router.get('/service', (req, res, next) =>{
   res.render('service');
 });
 
+/* GET about page. */
+router.get('/trading', (req, res, next) =>{
+  res.render('tradingResult');
+});
+
 module.exports = router;
