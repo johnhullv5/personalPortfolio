@@ -87,10 +87,37 @@ img.trading1{
 zoom: 90%;
 }
 
+img.trading1_project{
+zoom: 30%;
+}
+
+
 img.trading2{
 zoom: 70%;
 }
 
 img.trading3{
 zoom: 70%;
+}
+
+a.btn_stock_ {
+	color: green;
+	margin: 4px 2px;
+}
+
+a.btn btn-default{
+	color: green;
+}
+
+h2.welcome{
+
+	color: mediumblue
+
+}
+
+div.quote{
+	  text-align: center;
+    border: 3px solid green;
+		margin-left: 3cm;
+    margin-right: 3cm;
 }
