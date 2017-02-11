@@ -100,11 +100,6 @@ img.trading3{
 zoom: 70%;
 }
 
-a.btn_stock_ {
-	color: green;
-	margin: 4px 2px;
-}
-
 a.btn btn-default{
 	color: green;
 }
@@ -117,7 +112,7 @@ h2.welcome{
 
 div.quote{
 	  text-align: center;
-    border: 3px solid green;
+   
 		margin-left: 3cm;
     margin-right: 3cm;
 }
@@ -125,5 +120,12 @@ div.quote{
 img.hao{
 
 	zoom: 80%;
+
+		margin-left: 5cm;
+    margin-right: 3cm;
+
+}
+
+div.col-md-6{
 
 }
