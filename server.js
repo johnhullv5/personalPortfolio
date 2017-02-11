@@ -1,5 +1,17 @@
 #!/usr/bin/env node
 
+/*
+ * Copyright 2017 (C) <Centennial College> COMP308-assign1
+ * 
+ * Created on : 10-02-2017
+ * Author     : Hao Jiang (300858525)
+ *
+ *-----------------------------------------------------------------------------
+ * Revision History (Release 1.0.0.0)
+ *-----------------------------------------------------------------------------
+ */
+
+
 /**
  * Module dependencies.
  */
